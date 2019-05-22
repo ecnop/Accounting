@@ -1,2 +1,2 @@
 # Accounting
-Personal accounting program
+Software that helps me keep track of my accounting
