@@ -1,2 +1,2 @@
 # Accounting
-First piece of software I made. It helps me keep track of my personal accounting
+This is the first piece of software I made. I made it right after learning how to use python. The software helps me organize my accounting info so I can keep track of my expenses. I use it to translate a personal log file of single-entry accounting expenses into a detailed and comprehensive csv table that categorizes every expense in a specific format. I use this table to organize my expenses, chart them, see how much I've spent, check on my spending habits, and all of this in order to make sure I am following my budget rules and achieving some financial goals.
